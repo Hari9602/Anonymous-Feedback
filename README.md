@@ -23,19 +23,19 @@ Users can query the total number of feedback entries stored in the contract usin
 
 ## Usage/Examples
 
-```bash
+```
 # Adding Feedback: 
 
-Call the addFeedback function with the feedback message as a parameter to submit new feedback.
+Call the "addFeedback" function with the feedback message as a parameter to submit new feedback.
 ```
 ```
 # Retrieving Feedback: 
 
-Use the getFeedback function with the index of the feedback to retrieve specific feedback details.
+Use the "getFeedback" function with the index of the feedback to retrieve specific feedback details.
 ```
 ```
 # Total Feedback Count: 
 
-Query the total number of feedback entries by calling the getTotalFeedbacks function.
+Query the total number of feedback entries by calling the "getTotalFeedbacks" function.
 ```
 
