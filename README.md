@@ -23,7 +23,7 @@ Users can query the total number of feedback entries stored in the contract usin
 
 ## Usage/Examples
 
-```javascript
+```bash
 # Adding Feedback: 
 
 Call the addFeedback function with the feedback message as a parameter to submit new feedback.
