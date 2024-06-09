@@ -1,3 +1,4 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ## Overview
 
 The FeedbackStorage smart contract is designed to store feedback securely on the blockchain 📊. It allows users to submit feedback anonymously, which is then stored in a structured manner for future reference 💡. This README file provides a detailed explanation of the features and functionality of the FeedbackStorage contract.
